@@ -4,7 +4,7 @@
   "json",
   "nio",
   "http",
-  "web",
+  "web-framework",
   "web-sockets",
   "java-api",
   "reactive"
