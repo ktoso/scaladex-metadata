@@ -2,5 +2,9 @@
  "keywords": [
   "sql",
   "db"
+ ],
+ "stackoverflow": [
+  "slick",
+  "slick-3.0"
  ]
 }

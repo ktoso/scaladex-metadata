@@ -4,5 +4,8 @@
   "io",
   "language",
   "tool"
+ ],
+ "stackoverflow": [
+  "sbt"
  ]
 }

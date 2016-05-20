@@ -1,5 +1,11 @@
 {
  "keywords": [
-  "language"
+  "language",
+  "data-structures"
+ ],
+ "stackoverflow": [
+  "scala",
+  "scala-collections",
+  "scala-2.11"
  ]
 }

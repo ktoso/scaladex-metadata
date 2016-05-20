@@ -3,5 +3,8 @@
   "serialization",
   "deprecated",
   "mongodb"
+ ],
+ "stackoverflow": [
+  "salat"
  ]
 }

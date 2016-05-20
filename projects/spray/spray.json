@@ -5,5 +5,8 @@
   "nio",
   "http",
   "akka"
+ ],
+ "stackoverflow": [
+  "spray"
  ]
 }

@@ -6,5 +6,9 @@
   "akka",
   "distributed",
   "reactive"
+ ],
+ "stackoverflow": [
+  "akka",
+  "akka-stream"
  ]
 }

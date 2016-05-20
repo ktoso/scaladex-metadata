@@ -2,5 +2,8 @@
  "keywords": [
   "json",
   "serialization"
+ ],
+ "stackoverflow": [
+  "scala-pickling"
  ]
 }

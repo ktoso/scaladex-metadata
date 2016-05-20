@@ -2,5 +2,8 @@
  "keywords": [
   "generic",
   "typelevel"
+ ],
+ "stackoverflow": [
+  "shapeless"
  ]
 }
