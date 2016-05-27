@@ -1,0 +1,19 @@
+{
+ "keywords": [
+  "rest",
+  "json",
+  "nio",
+  "http",
+  "web-framework",
+  "web-sockets",
+  "java-api",
+  "reactive"
+ ],
+ "stackoverflow": [
+  "playframework",
+  "playframework-2.0",
+  "playframework-2.2",
+  "playframework-2.3",
+  "playframework-2.5"
+ ]
+}

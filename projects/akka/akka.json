@@ -1,0 +1,14 @@
+{
+ "keywords": [
+  "concurrency",
+  "futures",
+  "actors",
+  "akka",
+  "distributed",
+  "reactive"
+ ],
+ "stackoverflow": [
+  "akka",
+  "akka-stream"
+ ]
+}

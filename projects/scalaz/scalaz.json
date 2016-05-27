@@ -1,0 +1,14 @@
+{
+ "keywords": [
+  "generic",
+  "concurrency",
+  "futures",
+  "actors",
+  "data-structures",
+  "abstract-algebra",
+  "fp"
+ ],
+ "stackoverflow": [
+  "scalaz"
+ ]
+}
