@@ -1,9 +1,0 @@
-{
- "keywords": [
-  "redis",
-  "streaming",
-  "deprecated",
-  "nio",
-  "akka"
- ]
-}

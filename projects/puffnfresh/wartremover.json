@@ -1,8 +1,0 @@
-{
- "keywords": [
-  "compiler-plugin",
-  "sbt-plugin",
-  "tool",
-  "lint-tool"
- ]
-}
