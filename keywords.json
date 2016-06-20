@@ -668,7 +668,7 @@
   "foursquare/twofishes": ["geocoding"],
   "fpinscala/fpinscala": ["tutorial", "fp"],
   "frgomes/jmx4s": [],
-  "fristi/itinere": [],
+  "fristi/itinere": ["routing", "web", "fp", "endpoint", "uri", "path", "strongly-typed", "scalajs"],
   "frosner/drunken-data-quality": [],
   "frugalmechanic/fm-common": [],
   "frugalmechanic/fm-flatfile": [],
