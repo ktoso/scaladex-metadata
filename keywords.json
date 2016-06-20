@@ -2682,7 +2682,7 @@
   "umatrangolo/web-listing": [],
   "ummels/scala-prioritymap": [],
   "underscoreio/compose": [],
-  "underscoreio/csvside": [],
+  "underscoreio/csvside": ["csv"],
   "underscoreio/doodle": [],
   "underscoreio/slickless": [],
   "unfiltered/unfiltered": ["http", "web-sockets"],
