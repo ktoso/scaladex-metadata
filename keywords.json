@@ -2269,7 +2269,7 @@
   "scoverage/scalac-scoverage-plugin": ["sbt-plugin", "lint-tool", "testing"],
   "scruffy-project/scruffy": [],
   "scullxbones/akka-persistence-mongo": [],
-  "scyks/play-scala": [],
+  "scyks/play-acl": ["web", "playframework", "acl", "security", "authentication"],
   "seanahn/play-jsonpath": [],
   "seance/tugboat": [],
   "searchlight/khronus": ["time", "db", "reactive"],
